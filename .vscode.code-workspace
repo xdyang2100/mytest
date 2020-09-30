@@ -1,11 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "..\\..\\Users\\xyang\\Documents\\mytest"
-		},
-		{
-			"name": "mytest",
-			"path": "..\\..\\Users\\xyang\\Documents\\mytest\\mytest"
+			"path": "."
 		}
 	],
 	"settings": {}
